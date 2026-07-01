@@ -1,0 +1,15 @@
+#ai-autocomplete-box {
+  position: absolute;
+  z-index: 999999;
+  display: none;
+  max-width: 450px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background-color: #202124;
+  color: #b8b8b8;
+  border: 1px solid #555;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+  pointer-events: none;
+}
