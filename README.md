@@ -252,3 +252,4 @@ Developed as part of an AI Chrome Extension hands-on project.
 # License
 
 This project is provided for educational purposes.
+Link video"https://drive.google.com/file/d/1EdLLQ0QAm90tXe3Bpp4XzbrJLVI7B1fp/view?usp=sharing"
